@@ -1,0 +1,23 @@
+{
+  "product.details": "تفاصيل المنتج",
+  "product.specifications": "المواصفات",
+  "product.description": "الوصف",
+  "product.availability": "التوفر",
+  "product.shippingInfo": "معلومات الشحن",
+  "product.addToCart": "أضف إلى السلة",
+  "product.outOfStock": "غير متوفر",
+  "product.quantity": "الكمية",
+  "product.relatedProducts": "منتجات ذات صلة",
+  "filters.brand": "العلامة التجارية",
+  "filters.priceRange": "نطاق السعر",
+  "filters.screenSize": "حجم الشاشة",
+  "filters.storage": "التخزين",
+  "filters.ram": "الذاكرة العشوائية",
+  "filters.processor": "المعالج",
+  "filters.search": "بحث",
+  "filters.clearAll": "مسح الكل",
+  "filters.activeFilters": "الفلاتر النشطة",
+  "filters.resultsCount": "{{count}} نتيجة",
+  "filters.resultsCount_plural": "{{count}} نتائج",
+  "filters.noResults": "لا توجد منتجات تطابق فلاترك"
+}

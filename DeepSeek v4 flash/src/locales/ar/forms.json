@@ -1,0 +1,20 @@
+{
+  "forms.firstName": "الاسم الأول",
+  "forms.lastName": "اسم العائلة",
+  "forms.addressLine1": "العنوان سطر 1",
+  "forms.addressLine2": "العنوان سطر 2 (اختياري)",
+  "forms.city": "المدينة",
+  "forms.state": "المنطقة",
+  "forms.postalCode": "الرمز البريدي",
+  "forms.country": "الدولة",
+  "forms.email": "البريد الإلكتروني",
+  "forms.phone": "الهاتف",
+  "forms.paymentMethod": "طريقة الدفع",
+  "forms.creditCard": "بطاقة ائتمان",
+  "forms.paypal": "باي بال",
+  "forms.cashOnDelivery": "الدفع عند الاستلام",
+  "forms.shippingOption": "خيار الشحن",
+  "forms.placeholders.email": "أدخل بريدك الإلكتروني",
+  "forms.placeholders.phone": "أدخل رقم هاتفك",
+  "forms.placeholders.search": "ابحث عن منتجات..."
+}

@@ -1,0 +1,23 @@
+{
+  "product.details": "Product Details",
+  "product.specifications": "Specifications",
+  "product.description": "Description",
+  "product.availability": "Availability",
+  "product.shippingInfo": "Shipping Information",
+  "product.addToCart": "Add to Cart",
+  "product.outOfStock": "Out of Stock",
+  "product.quantity": "Quantity",
+  "product.relatedProducts": "Related Products",
+  "filters.brand": "Brand",
+  "filters.priceRange": "Price Range",
+  "filters.screenSize": "Screen Size",
+  "filters.storage": "Storage",
+  "filters.ram": "RAM",
+  "filters.processor": "Processor",
+  "filters.search": "Search",
+  "filters.clearAll": "Clear All",
+  "filters.activeFilters": "Active Filters",
+  "filters.resultsCount": "{{count}} result",
+  "filters.resultsCount_plural": "{{count}} results",
+  "filters.noResults": "No products match your filters"
+}

@@ -1,0 +1,20 @@
+{
+  "forms.firstName": "First Name",
+  "forms.lastName": "Last Name",
+  "forms.addressLine1": "Address Line 1",
+  "forms.addressLine2": "Address Line 2 (Optional)",
+  "forms.city": "City",
+  "forms.state": "State",
+  "forms.postalCode": "Postal Code",
+  "forms.country": "Country",
+  "forms.email": "Email",
+  "forms.phone": "Phone",
+  "forms.paymentMethod": "Payment Method",
+  "forms.creditCard": "Credit Card",
+  "forms.paypal": "PayPal",
+  "forms.cashOnDelivery": "Cash on Delivery",
+  "forms.shippingOption": "Shipping Option",
+  "forms.placeholders.email": "Enter your email",
+  "forms.placeholders.phone": "Enter your phone number",
+  "forms.placeholders.search": "Search products..."
+}

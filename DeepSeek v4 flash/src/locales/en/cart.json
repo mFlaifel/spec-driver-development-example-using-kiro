@@ -1,0 +1,18 @@
+{
+  "cart.title": "Shopping Cart",
+  "cart.empty": "Your cart is empty",
+  "cart.itemCount": "{{count}} item",
+  "cart.itemCount_plural": "{{count}} items",
+  "cart.subtotal": "Subtotal",
+  "cart.shipping": "Shipping",
+  "cart.tax": "Tax",
+  "cart.total": "Total",
+  "cart.checkout": "Checkout",
+  "cart.remove": "Remove",
+  "cart.updateQuantity": "Update Quantity",
+  "cart.itemRemoved": "Item removed from cart",
+  "cart.proceedToCheckout": "Proceed to Checkout",
+  "cart.orderConfirmation.title": "Order Confirmed!",
+  "cart.orderConfirmation.message": "Thank you! Your order has been placed successfully.",
+  "cart.orderNumber": "Order Number"
+}

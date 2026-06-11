@@ -1,0 +1,11 @@
+{
+  "errors.pageNotFound": "الصفحة غير موجودة",
+  "errors.somethingWentWrong": "حدث خطأ ما",
+  "errors.networkError": "خطأ في الشبكة. يرجى التحقق من اتصالك",
+  "errors.productNotFound": "المنتج غير موجود",
+  "errors.emptyCart": "سلة التسوق فارغة",
+  "errors.validationError": "خطأ في التحقق من صحة البيانات",
+  "errors.requiredField": "هذا الحقل مطلوب",
+  "errors.invalidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+  "errors.invalidPhone": "يرجى إدخال رقم هاتف صحيح"
+}

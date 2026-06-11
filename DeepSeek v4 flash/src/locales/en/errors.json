@@ -1,0 +1,11 @@
+{
+  "errors.pageNotFound": "Page not found",
+  "errors.somethingWentWrong": "Something went wrong",
+  "errors.networkError": "Network error. Please check your connection.",
+  "errors.productNotFound": "Product not found",
+  "errors.emptyCart": "Your cart is empty",
+  "errors.validationError": "Validation error",
+  "errors.requiredField": "This field is required",
+  "errors.invalidEmail": "Please enter a valid email address",
+  "errors.invalidPhone": "Please enter a valid phone number"
+}

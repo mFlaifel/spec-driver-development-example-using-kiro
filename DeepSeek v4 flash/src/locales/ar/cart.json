@@ -1,0 +1,18 @@
+{
+  "cart.title": "سلة التسوق",
+  "cart.empty": "سلة التسوق فارغة",
+  "cart.itemCount": "{{count}} عنصر",
+  "cart.itemCount_plural": "{{count}} عناصر",
+  "cart.subtotal": "المجموع الفرعي",
+  "cart.shipping": "الشحن",
+  "cart.tax": "الضريبة",
+  "cart.total": "المجموع",
+  "cart.checkout": "الدفع",
+  "cart.remove": "إزالة",
+  "cart.updateQuantity": "تحديث الكمية",
+  "cart.itemRemoved": "تمت إزالة العنصر من السلة",
+  "cart.proceedToCheckout": "إتمام الشراء",
+  "cart.orderConfirmation.title": "تم تأكيد الطلب!",
+  "cart.orderConfirmation.message": "شكراً! تم تقديم طلبك بنجاح.",
+  "cart.orderNumber": "رقم الطلب"
+}
