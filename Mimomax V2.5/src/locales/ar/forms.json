@@ -1,0 +1,23 @@
+{
+  "firstName": "الاسم الأول",
+  "lastName": "اسم العائلة",
+  "email": "البريد الإلكتروني",
+  "phone": "رقم الهاتف",
+  "address": "العنوان",
+  "addressLine1": "العنوان الأول",
+  "addressLine2": "العنوان الثاني",
+  "city": "المدينة",
+  "state": "المنطقة/الولاية",
+  "postalCode": "الرمز البريدي",
+  "country": "الدولة",
+  "shippingMethod": "طريقة الشحن",
+  "paymentMethod": "طريقة الدفع",
+  "creditCard": "بطاقة ائتمان",
+  "paypal": "باي بال",
+  "cashOnDelivery": "الدفع عند الاستلام",
+  "orderReview": "مراجعة الطلب",
+  "placeOrder": "تأكيد الطلب",
+  "orderConfirmation": "تم تأكيد الطلب!",
+  "orderNumber": "رقم الطلب",
+  "continueShopping": "متابعة التسوق"
+}

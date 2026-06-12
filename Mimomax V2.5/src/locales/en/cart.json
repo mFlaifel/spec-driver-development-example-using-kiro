@@ -1,0 +1,14 @@
+{
+  "title": "Shopping Cart",
+  "empty": "Your cart is empty",
+  "emptyMessage": "Browse our products and add items to your cart",
+  "browseProducts": "Browse Products",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "total": "Total",
+  "proceedToCheckout": "Proceed to Checkout",
+  "quantity": "Quantity",
+  "remove": "Remove",
+  "itemCount": "{{count}} items",
+  "cartSummary": "Order Summary"
+}

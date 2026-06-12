@@ -1,0 +1,18 @@
+{
+  "appName": "Mimomax",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "retry": "Try Again",
+  "save": "Save",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "back": "Back",
+  "next": "Next",
+  "close": "Close",
+  "search": "Search",
+  "clearAll": "Clear All",
+  "noResults": "No results found",
+  "currency": "Price",
+  "addToCart": "Add to Cart",
+  "viewDetails": "View Details"
+}

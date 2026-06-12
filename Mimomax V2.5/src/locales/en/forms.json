@@ -1,0 +1,23 @@
+{
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email Address",
+  "phone": "Phone Number",
+  "address": "Address",
+  "addressLine1": "Address Line 1",
+  "addressLine2": "Address Line 2",
+  "city": "City",
+  "state": "State/Province",
+  "postalCode": "Postal Code",
+  "country": "Country",
+  "shippingMethod": "Shipping Method",
+  "paymentMethod": "Payment Method",
+  "creditCard": "Credit Card",
+  "paypal": "PayPal",
+  "cashOnDelivery": "Cash on Delivery",
+  "orderReview": "Review Order",
+  "placeOrder": "Place Order",
+  "orderConfirmation": "Order Confirmed!",
+  "orderNumber": "Order Number",
+  "continueShopping": "Continue Shopping"
+}
